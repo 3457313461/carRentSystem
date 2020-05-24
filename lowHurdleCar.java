@@ -6,18 +6,6 @@ public class lowHurdleCar {
     private static int day;//租车时间
 
     //setter()方法
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
-    }
-
-    public void setCargo(double cargo) {
-        this.cargo = cargo;
-    }
-
     public static void setNum(int num) {
         lowHurdleCar.num = num;
     }
