@@ -6,18 +6,6 @@ public class minibus {
     private static int day;//租车天数
 
     //setter()方法
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
-    }
-
-    public void setBusload(int busload) {
-        this.busload = busload;
-    }
-
     public static void setNum(int num) {
         minibus.num = num;
     }
